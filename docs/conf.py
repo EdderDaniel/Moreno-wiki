@@ -2,10 +2,10 @@
 # Sphinx configuration file
 
 # -- Project information -----------------------------------------------------
-project = 'My Awesome Project'
-copyright = '2025, Your Name'
-author = 'Your Name'
-release = '0.1.0'
+project = 'Moreno lab wiki'
+copyright = '2025, Creative commons'
+author = 'Daniel Diaz'
+release = '0.0.1'
 
 # -- General configuration ---------------------------------------------------
 extensions = [
