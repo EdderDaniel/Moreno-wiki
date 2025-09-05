@@ -1,32 +1,9 @@
-Getting Started
-This is your first documentation page. You can write your content here using reStructuredText (.rst) markup.
+Welcome to the Moreno Lab!
 
-Sections
-You create sections by underlining the title with punctuation characters.
+Much of your work here will involve intensive computation. To support this, we have a High-Performance Computing (HPC) cluster named **Kexol**. Kexol means [Insert meaning here].
 
-Use = for page titles.
+This guide will walk you through the two essential first steps:
 
-Use - for sections.
+#. **Creating an account** to connect to the cluster.
 
-Use ^ for sub-sections.
-
-Use " for sub-sub-sections.
-
-Code Blocks
-You can include code blocks easily:
-
-.. code-block:: python
-
-def hello_world():
-print("Hello, Read the Docs!")
-
-Lists
-You can create bulleted or numbered lists.
-
-An item
-
-Another item
-
-First item
-
-Second item
+#. **Learning the SLURM job scheduler** to run your analyses.
