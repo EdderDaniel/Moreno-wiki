@@ -1,16 +1,17 @@
 .. Moreno lab documentation master file, created by Daniel Diaz
 
-*Welcome to the Moreno lab Wiki v0.0.1!*
+Welcome to the Moreno lab Wiki v0.0.1!
+=====================================
+
 .. toctree::
+   :maxdepth: 2
+   :caption: Contents:
 
-	:maxdepth: 2
-	:caption: Contents:
-
-	getting_started
+   getting_started
 
 Indices and tables
-*:ref:genindex
+==================
 
-*:ref:modindex
-
-*:ref:search
+* :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`
