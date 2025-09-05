@@ -8,6 +8,33 @@ Welcome to the Moreno lab Wiki v0.0.1!
    :caption: Contents:
 
    getting_started
+   computational_resources
+   slurm
+   search
+
+Getting started
+===============
+
+.. include:: getting_started.rst
+
+
+Computational resources
+=======================
+
+.. include:: computational_resources.rst
+
+
+SLURM
+=====
+
+.. include:: slurm.rst
+
+
+Search
+======
+
+.. include:: search.rst
+
 
 Indices and tables
 ==================
