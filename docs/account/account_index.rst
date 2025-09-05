@@ -1,5 +1,5 @@
 Getting your account
---------------------
+====================
 
 Steps to request and activate a new user account.
 
